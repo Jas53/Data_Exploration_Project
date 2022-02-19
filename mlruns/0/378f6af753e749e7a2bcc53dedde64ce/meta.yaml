@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jasminnoll/Documents/DHBW/Sem4/Data_Exploration_Project/mlruns/0/378f6af753e749e7a2bcc53dedde64ce/artifacts
+end_time: 1645195941944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 378f6af753e749e7a2bcc53dedde64ce
+run_uuid: 378f6af753e749e7a2bcc53dedde64ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645195940388
+status: 3
+tags: []
+user_id: jasminnoll
