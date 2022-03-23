@@ -11,4 +11,4 @@ The Elastic-Net model will be trained using the training data, which contains ~6
 
 Later on in the second notebook the best Elastic-Net model will be demonstared using the testing data, which contains ~10% of the data (16 records).
 
-The results can be seen [here](./trainModel.ipynb).
+The results can be seen [here](./trainModel.ipynb) or [here](https://colab.research.google.com/drive/1gRgP7eUHicIGm0nuqYa765ioiyw21Mcn#scrollTo=u4qU4NFAZHb0) in the Google Collab.
