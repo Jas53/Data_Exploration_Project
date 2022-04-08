@@ -9,6 +9,8 @@ The model will be trained in [this](./trainModel.ipynb) notebook. With **MLFolw*
 
 The Elastic-Net model will be trained using the training data, which contains ~67% of the data (105 records) and be evaluated using the validation data, which contains ~22% of the data (35 records). To meassure the errors of the model the metrics *mean squared error*, *mean absolute error* and *mean absolute percentage error* are used.
 
-Later on in the second notebook the best Elastic-Net model will be demonstared using the testing data, which contains ~10% of the data (16 records).
+Later on in the second notebook the best Elastic-Net model will be demonstared using the [testing data](./data/test_data.csv), which contains ~10% of the data (16 records).
 
 The results can be seen [here](./demo.ipynb) or [here](https://colab.research.google.com/drive/1gRgP7eUHicIGm0nuqYa765ioiyw21Mcn#scrollTo=u4qU4NFAZHb0) in the Google Collab.
+
+Futher elaboration on the project can be found [here](./Report-Jasmin_Noll.pdf).
